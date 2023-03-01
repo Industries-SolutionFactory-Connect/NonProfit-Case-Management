@@ -1,6 +1,6 @@
 {
   "orgName": "NonProfit-Case-Management - Dev Org",
-  "edition": "Developer",
+  "template": "00DB0000000Myay",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
